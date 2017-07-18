@@ -12,6 +12,10 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 # ==============================================================================
+# This file is copied from
+# https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/mnist/input_data.py
+# with no modification
+# ==============================================================================
 
 """Functions for downloading and reading MNIST data."""
 from __future__ import absolute_import

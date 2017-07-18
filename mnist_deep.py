@@ -1,3 +1,6 @@
+# This code is written based on the following tutorial
+# https://www.tensorflow.org/get_started/mnist/pros
+
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
